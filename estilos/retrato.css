@@ -1,7 +1,9 @@
 @charset "UTF-8";
 
-/* Aparelhos em pé (portrait) */
+/* Aparelhos deitado ( landscape ) */
 
-body{
-    background-color: darkgreen;
-}
+
+
+    body {
+        background-color: red;
+    }
