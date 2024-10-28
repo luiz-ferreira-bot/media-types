@@ -1,9 +1,10 @@
 @charset "UTF-8";
 
-/* Aparelhos deitado ( landscape ) */
+/* Aparelhos em pé (portrait) */
 
-
-
-    body {
-        background-color: red;
-    }
+body {
+    background: url('../img/cev-portrait.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
